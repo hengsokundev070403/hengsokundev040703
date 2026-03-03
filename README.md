@@ -8,15 +8,19 @@ I am passionate about building resilient infrastructure, writing clean code, and
 
 ---
 
-### The Toolbox
+###  The Toolbox
 
 **Frontend Architecture:**
 * JavaScript (ES6+) | HTML5 | CSS3
 * Vue 3 | Pinia | Vite
 
-**Backend & Database:**
+**Backend Ecosystem & Architecture:**
 * Node.js | Express.js | RESTful APIs
+* C# | ASP.NET Core | MVC Pattern
+
+**Databases & ORMs:**
 * MongoDB (Replica Sets) | Mongoose
+* SQL Server | Entity Framework
 
 **DevOps, Infrastructure & Security:**
 * Docker | Docker Compose | Nginx | Cloudflare
