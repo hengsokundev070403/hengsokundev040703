@@ -42,7 +42,7 @@ Due to strict government security and intellectual property protocols, my primar
   * Engineered a deep Role-Based Access Control (RBAC) matrix for dynamic administrative permissions.
   * Implemented an automated infrastructure monitoring stack to track container health and memory usage.
   * Secured the perimeter against automated cyber attacks using strict rate-limiting and OWASP ZAP penetration testing.
-
+**[Read the Full Architecture & Security Case Study Here] (https://github.com/hengsokundev070403/Enterprise-DTS-Architecture/blob/main/README.md) **
 ---
 
 ### Let's Connect
